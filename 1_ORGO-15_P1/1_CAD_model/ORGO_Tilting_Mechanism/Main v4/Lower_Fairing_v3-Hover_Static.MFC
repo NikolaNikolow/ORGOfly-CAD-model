@@ -1,0 +1,16 @@
+[StartTime]
+Lower_Fairing_v3-Hover_Static.MFC=2s
+[SolverState]
+Lower_Fairing_v3-Hover_Static.MFC=2
+[MainFrame]
+Lower_Fairing_v3-Hover_Static.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+Lower_Fairing_v3-Hover_Static.MFC=No
+[SolverType]
+Lower_Fairing_v3-Hover_Static.MFC=Linear Analysis
+[StudyType]
+Lower_Fairing_v3-Hover_Static.MFC=0
+[StudyName]
+Lower_Fairing_v3-Hover_Static.MFC=Hover_Static
+[Solver]
+Lower_Fairing_v3-Hover_Static.MFC=Iterative

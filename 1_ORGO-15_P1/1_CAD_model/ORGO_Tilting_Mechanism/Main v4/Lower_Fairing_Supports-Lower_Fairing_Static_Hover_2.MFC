@@ -1,0 +1,16 @@
+[StartTime]
+Lower_Fairing_Supports-Lower_Fairing_Static_Hover_2.MFC=1s
+[SolverState]
+Lower_Fairing_Supports-Lower_Fairing_Static_Hover_2.MFC=2
+[MainFrame]
+Lower_Fairing_Supports-Lower_Fairing_Static_Hover_2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMADAAAAADLBAAAAAEHEAAAAAGICAAAAA
+[ShowMin]
+Lower_Fairing_Supports-Lower_Fairing_Static_Hover_2.MFC=No
+[SolverType]
+Lower_Fairing_Supports-Lower_Fairing_Static_Hover_2.MFC=Linear Analysis
+[StudyType]
+Lower_Fairing_Supports-Lower_Fairing_Static_Hover_2.MFC=0
+[StudyName]
+Lower_Fairing_Supports-Lower_Fairing_Static_Hover_2.MFC=Lower_Fairing_Static_Hover_2
+[Solver]
+Lower_Fairing_Supports-Lower_Fairing_Static_Hover_2.MFC=Iterative
